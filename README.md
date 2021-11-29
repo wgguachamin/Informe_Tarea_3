@@ -2,7 +2,11 @@
 
 1.1. OBJETIVO GENERAL
 
+Analizar y comprender los conceptos y características fundamentales y básicas tanto de los circuitos en paralelo y circuitos serie como temas que se deslogan de estos temas para la realización correspondiente de los diversos ejercicios propuestos.
+
 1.2. OBJETIVOS ESPECÍFICOS
+
+Aplicar la teoría que se ah revisado para realizar el análisis correspondiente por el cual se pueda identificar la manera más adecuada para la resolución de cada ejercicio propuesto.
 
 2. MARCO TEÓRICO
 
@@ -537,10 +541,32 @@ SECCIÓN 6–10 Localización de fallas
 ![image](https://user-images.githubusercontent.com/93415377/143954493-6370fba4-757a-49ee-a6a8-59ed35fb78a8.png)
 
 
+47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![image](https://user-images.githubusercontent.com/93415377/143958653-85199d95-ec5e-43b6-9e79-ed73b36e0a5e.png)
+
+
+![image](https://user-images.githubusercontent.com/93415377/143958613-7423b057-7a81-4fee-88fe-2eae608a8ffe.png)
+
+
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/93415377/143958679-c766e1aa-79ff-4300-9a62-579f1639923f.png)
+
+
+![image](https://user-images.githubusercontent.com/93415377/143959246-28a45906-7c32-49c1-a56b-e2546016b85b.png)
 
 
 4. VIDEO
 
 5. CONCLUSIONES
+
+
+La fuente de corriente en paralelo se suma algebraicamente. 
+Ley de las corrientes de Kirchhoff: La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a las corrientes que salen del nodo (corriente total de salida).
+Se denomina divisor de corriente a un circuito en paralelo en el cual las corrientes se dividen de modo inversamente proporcional a las resistencias de las ramas en paralelo
+La potencia total es igual a la suma algebraica de todas las potencias individuales de los resistores que integran el circuito en paralelo y con ello se puede aplicar la ley de ohm con la aplicación de varias formulas .
+
+
 
 6. BIBLIOGRAFÍA
