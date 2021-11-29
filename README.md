@@ -563,8 +563,11 @@ SECCIÓN 6–10 Localización de fallas
 
 
 La fuente de corriente en paralelo se suma algebraicamente. 
+
 Ley de las corrientes de Kirchhoff: La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a las corrientes que salen del nodo (corriente total de salida).
+
 Se denomina divisor de corriente a un circuito en paralelo en el cual las corrientes se dividen de modo inversamente proporcional a las resistencias de las ramas en paralelo
+
 La potencia total es igual a la suma algebraica de todas las potencias individuales de los resistores que integran el circuito en paralelo y con ello se puede aplicar la ley de ohm con la aplicación de varias formulas .
 
 
