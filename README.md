@@ -447,7 +447,8 @@ SECCIÓN 6–4 Resistencia total en paralelo
 ![image](https://user-images.githubusercontent.com/93415377/143952849-df220ca4-0fd3-4880-8ba9-31ccf512aa98.png)
 
 
-SECCIÓN 6–5 Aplicación de la ley de Ohm
+SECCIÓN 6–5 Aplicación de la ley de 
+
 23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
 
 ![image](https://user-images.githubusercontent.com/93415377/143952899-d716de08-db84-4fb2-93eb-ba36353433ce.png)
@@ -468,9 +469,11 @@ SECCIÓN 6–5 Aplicación de la ley de Ohm
 
 
 SECCIÓN 6–6 Fuentes de corriente en paralelo
+
 31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
          
-         ![image](https://user-images.githubusercontent.com/93415377/143953122-1e223b40-2481-4bd4-8488-fabcfbfca5d0.png)
+![image](https://user-images.githubusercontent.com/93415377/143954071-d86d80a2-c9bf-421b-be5a-94d93450bb61.png)
+
 
 ![image](https://user-images.githubusercontent.com/93415377/143953167-c6c7551f-ad99-4036-8301-d455090b7284.png)
 
