@@ -405,6 +405,7 @@ SECCIÓN 6–1 Resistores en paralelo 1.
 ![image](https://user-images.githubusercontent.com/93415377/143951868-b51aa1a9-9b43-4138-a893-d5d436f46f1d.png)
 
 SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
 5.  El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
 ![image](https://user-images.githubusercontent.com/93415377/143951931-347081b8-187b-403c-ab26-64c3fc691e51.png)
@@ -414,6 +415,7 @@ SECCIÓN 6–2 Voltaje en un circuito en paralelo
 ![image](https://user-images.githubusercontent.com/93415377/143952013-2b3221d4-3b32-4fdd-8897-cb74421ad307.png)
 
 SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
+
 9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
 
 ![image](https://user-images.githubusercontent.com/93415377/143952382-91f19cfb-26d5-432a-9a9b-dce60719a9b3.png)
@@ -428,6 +430,7 @@ SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
 
 SECCIÓN 6–4 Resistencia total en paralelo
+
 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
 ![image](https://user-images.githubusercontent.com/93415377/143952650-982094ce-469e-4db7-ac0d-352d7f58d155.png)
@@ -478,6 +481,7 @@ SECCIÓN 6–6 Fuentes de corriente en paralelo
 ![image](https://user-images.githubusercontent.com/93415377/143953167-c6c7551f-ad99-4036-8301-d455090b7284.png)
 
 SECCIÓN 6–7 Divisores de corriente
+
 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
 
 ![image](https://user-images.githubusercontent.com/93415377/143953228-e72f5a91-d939-4459-82d2-b01f8bc99cd6.png)
@@ -500,6 +504,7 @@ SECCIÓN 6–7 Divisores de corriente
 
 
 SECCIÓN 6–8 Potencia en circuitos en paralelo
+
 39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
 
 ![image](https://user-images.githubusercontent.com/93415377/143953545-679a1826-d0df-49f7-88e9-652007ae97fb.png)
@@ -510,6 +515,7 @@ SECCIÓN 6–8 Potencia en circuitos en paralelo
 ![image](https://user-images.githubusercontent.com/93415377/143953600-36bef85c-d96d-4899-8087-5cc2e2c77efd.png)
 
 SECCIÓN 6–10 Localización de fallas 
+
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
 ![image](https://user-images.githubusercontent.com/93415377/143953662-96913e82-4974-4c7e-b2ba-37063bd6bc0b.png)
@@ -518,7 +524,17 @@ SECCIÓN 6–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/93415377/143953705-3b6309f7-334d-4f79-8c55-71f39f07b762.png)
 
+47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
+![image](https://user-images.githubusercontent.com/93415377/143954466-764f962d-d1a6-48f6-847a-69ecb27af085.png)
+
+
+
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/93415377/143954483-a87f0888-f57d-4ea4-aac6-3853068c4fc5.png)
+
+![image](https://user-images.githubusercontent.com/93415377/143954493-6370fba4-757a-49ee-a6a8-59ed35fb78a8.png)
 
 
 
