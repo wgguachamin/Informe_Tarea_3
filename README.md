@@ -596,15 +596,8 @@ SECCIÓN 6–10 Localización de fallas
 
 5. CONCLUSIONES
 
-
-La fuente de corriente en paralelo se suma algebraicamente. 
-
-Ley de las corrientes de Kirchhoff: La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a las corrientes que salen del nodo (corriente total de salida).
-
-Se denomina divisor de corriente a un circuito en paralelo en el cual las corrientes se dividen de modo inversamente proporcional a las resistencias de las ramas en paralelo
-
-La potencia total es igual a la suma algebraica de todas las potencias individuales de los resistores que integran el circuito en paralelo y con ello se puede aplicar la ley de ohm con la aplicación de varias formulas .
-
-
+- Dentro de los circuitos en serie la Ley de Ohm permite calcular la corriente total conociendo los valores del voltaje y de la resistencia total, por otro lado la Ley de los voltajes de Kirchhoff ayuda a calcular y determinar el voltaje total del circuito con la suma de los voltajes individuales de cada resistencia.
+- En los circuitos en paralelo la Ley de las corrientes permite encontrar la corriente total que pasa por el circuito y a su vez ayuda al análisis de las corrientes que pasan por el nodo tanto las que entran como salen de que estas deben ser del mismo valor.
+- Tanto para circuitos en serie como en paralelo la localización de fallas permite determinar que error al momento de un cortocircuito o algun circuito abierto, por lo lógico estos son los fallos más comunes que se presentan en tarjetas de circuitos o ensamblamientos. 
 
 6. BIBLIOGRAFÍA
