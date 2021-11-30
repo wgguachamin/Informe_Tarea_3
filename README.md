@@ -563,18 +563,6 @@ SECCIÓN 6–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/93415377/143953705-3b6309f7-334d-4f79-8c55-71f39f07b762.png)
 
-47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
-
-![image](https://user-images.githubusercontent.com/93415377/143954466-764f962d-d1a6-48f6-847a-69ecb27af085.png)
-
-
-
-49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
-
-![image](https://user-images.githubusercontent.com/93415377/143954483-a87f0888-f57d-4ea4-aac6-3853068c4fc5.png)
-
-![image](https://user-images.githubusercontent.com/93415377/143954493-6370fba4-757a-49ee-a6a8-59ed35fb78a8.png)
-
 
 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
