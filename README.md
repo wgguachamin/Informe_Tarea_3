@@ -602,7 +602,7 @@ SECCIÓN 6–10 Localización de fallas
 
 6. BIBLIOGRAFÍA
 
-- 2009. (Rocha, Jimmy). Análisis básicos de circuitos. Nariño: https://repository.unad.edu.co/handle/10596/299.
+- Rocha, J. (2009). Análisis básicos de circuitos. Nariño: https://repository.unad.edu.co/handle/10596/299.
 - Boylestad, R. (2004). Introducción al análisis de circuitos. Ciudad de México: Pearson Educación.
 - Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 - Padilla, Y. (01 de Enero de 2018). Obtenido de http://biblioteca.usbbog.edu.co:8080/Biblioteca/BDigital/165203.pdf
