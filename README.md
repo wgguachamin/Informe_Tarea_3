@@ -3,13 +3,47 @@
 
 1.1. OBJETIVO GENERAL
 
-Analizar y comprender los conceptos y características fundamentales y básicas tanto de los circuitos en paralelo y circuitos serie como temas que se deslogan de estos temas para la realización correspondiente de los diversos ejercicios propuestos.
+Analizar y comprender los conceptos y características fundamentales tanto de los circuitos en paralelo como de los circuitos serie, mediante la lectura de los capítulos 5 y 6 del libro “Principios de circuitos eléctricos” de Floyd, para poder resolver correctamente los ejercicios propuestos.
 
 1.2. OBJETIVOS ESPECÍFICOS
 
-Aplicar la teoría que se ah revisado para realizar el análisis correspondiente por el cual se pueda identificar la manera más adecuada para la resolución de cada ejercicio propuesto.
+- Analizar la aplicación de la Ley de Ohm y la Ley de los voltajes de Kirchhoff en los ejercicios de los circuitos en serie.
+- Implementar la Ley de las corrientes de Kirchhoff en los circuitos en paralelo.
+- Conocer la localización de fallas tanto que circuitos en serie como en paralelo.
 
 2. MARCO TEÓRICO
+
+2.1. CIRCUITOS EN SERIE
+
+2.1.1. RESISTORES EN SERIE, CORRIENTE EN UN CIRCUITO EN SERIE, RESISTENCIA TOTAL EN SERIE Y FUENTES DE VOLTAJE EN SERIE
+
+![Mapas mentales con líneas](https://user-images.githubusercontent.com/94008521/143964763-f7aa84e2-4652-4d73-9c2f-f85048dcc06a.png)
+
+2.1.2. APLICACIÓN DE LA LEY DE OHM
+
+![xd](https://user-images.githubusercontent.com/94008521/143964836-adc07d9b-decd-439d-bde9-001d2cfb56f9.png)
+
+2.1.3. LEY DE VOLTAJE DE KIRCHHOFF, DIVISORES DE VOLTAJE Y POTENCIA
+
+![Diagrama en blanco](https://user-images.githubusercontent.com/94008521/143964930-c1553d5c-a261-4614-8c83-72624557d875.png)
+
+2.1.4. MEDICIONES DE VOLTAJE
+
+![Embudo de ventas](https://user-images.githubusercontent.com/94008521/143964973-d86b91c3-a475-437e-a19c-05f89b4426de.png)
+
+2.1.5. LOCALIZACIÓN DE FALLAS
+
+![ultimo tema 5](https://user-images.githubusercontent.com/94008521/143965027-67d036e5-e15c-4192-9668-77ffca360c18.png)
+
+2.2. CIRCUITOS EN PARALELO
+
+2.2.1. RESISTORES EN PARALELO, VOLTAJE, FUENTES DE CORRIENTE EN PARALELO Y RESISTENCIA TOTAL
+
+![paralelo](https://user-images.githubusercontent.com/94008521/143965145-96698f8e-92bf-4e60-ad1f-ef5a88e0cd64.png)
+
+2.2.2. LEY DE LAS CORRIENTES DE KIRCHHOFF, DIVISORES DE CORRIENTE Y POTENCIA
+
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/94008521/143965270-25a80fe1-b289-4a9d-9727-a2bdf2b6d263.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
