@@ -594,6 +594,8 @@ SECCIÓN 6–10 Localización de fallas
 
 4. VIDEO
 
+https://youtu.be/_YTQ490FNcI
+
 5. CONCLUSIONES
 
 - Dentro de los circuitos en serie la Ley de Ohm permite calcular la corriente total conociendo los valores del voltaje y de la resistencia total, por otro lado la Ley de los voltajes de Kirchhoff ayuda a calcular y determinar el voltaje total del circuito con la suma de los voltajes individuales de cada resistencia.
